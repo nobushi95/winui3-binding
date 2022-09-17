@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleBinding (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SimpleBinding (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
